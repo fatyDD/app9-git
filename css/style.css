@@ -61,7 +61,7 @@ input#volume{
 
 #buttons{
 	width:90%;
-	display:block;
+	display: block;
 	margin: 15px auto;
 	margin-left:23px;
 	overflow:auto;
@@ -70,21 +70,20 @@ input#volume{
 button#play{
 	width:70px;
 	height:70px;
-	background:url(../images/play.png)no-repeat;float:left;
+	background:url(../images/play.png) no-repeat;float:left;
 }
 
 button#pause{
-	width:70;
-	height:70px;
-	background:url(../images/pause.png)no-repeat;float:left;
+	width: 70px;
+	height: 70px;
+	background:url(../images/pause.png) no-repeat;float:left;
 }
 
 button#stop{
-	width:70px;
-	height:70px;
-	background:url(../images/stop.png)no-repeat;float:left;
+	width: 70px;
+	height: 70px;
+	background:url(../images/stop.png) no-repeat;float:left;
 }
-
 
 #playlist{
 	list-style-type: none;
